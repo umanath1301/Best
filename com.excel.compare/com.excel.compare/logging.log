@@ -1,0 +1,47 @@
+2021-06-01 19:52:44 INFO  ComparExcel:68 - first case
+  2021-06-01 19:52:47 INFO  ComparExcel:39 - firstcase started
+  2021-06-01 19:53:13 INFO  ComparExcel:70 - 2 case
+  2021-06-01 19:53:15 INFO  ComparExcel:47 - second testcase started 
+  2021-06-01 19:58:41 INFO  ComparExcel:68 - first case
+  2021-06-01 19:58:45 INFO  ComparExcel:39 - firstcase started
+  2021-06-01 19:59:06 INFO  ComparExcel:70 - 2 case
+  2021-06-01 19:59:07 INFO  ComparExcel:47 - second testcase started 
+  2021-06-01 19:59:07 INFO  ComparExcel:52 - third testcase started
+  2021-06-01 20:07:59 INFO  ComparExcel:68 - first case
+  2021-06-01 20:08:10 INFO  ComparExcel:39 - firstcase started
+  2021-06-01 20:10:25 INFO  ComparExcel:70 - 2 case
+  2021-06-01 20:10:45 INFO  ComparExcel:48 - second testcase started 
+  2021-06-01 20:10:45 INFO  ComparExcel:53 - third testcase started
+  2021-06-01 20:18:28 INFO  ComparExcel:68 - first case
+  2021-06-01 20:18:31 INFO  ComparExcel:39 - firstcase started
+  2021-06-01 20:18:51 INFO  ComparExcel:70 - 2 case
+  2021-06-01 20:18:52 INFO  ComparExcel:48 - second testcase started 
+  2021-06-01 20:18:52 INFO  ComparExcel:53 - third testcase started
+  2021-06-01 20:19:40 INFO  ComparExcel:68 - 3 case
+  2021-06-01 21:25:03 INFO  ComparExcel:68 - first case
+  2021-06-01 21:25:06 INFO  ComparExcel:39 - firstcase started
+  2021-06-01 21:25:34 INFO  ComparExcel:70 - 2 case
+  2021-06-01 21:25:35 INFO  ComparExcel:48 - second testcase started 
+  2021-06-01 21:25:35 INFO  ComparExcel:53 - third testcase started
+  2021-06-01 21:26:24 INFO  ComparExcel:68 - 3 case
+  2021-06-02 12:36:55 INFO  ComparExcel:35 - firstcase started
+  2021-06-02 12:37:24 INFO  ComparExcel:70 - 2 case
+  2021-06-02 12:37:26 INFO  ComparExcel:44 - second testcase started 
+  2021-06-02 12:37:26 INFO  ComparExcel:49 - third testcase started
+  2021-06-02 12:38:15 INFO  ComparExcel:68 - 3 case
+  2021-06-02 16:02:51 INFO  ComparExcel:35 - firstcase started
+  2021-06-02 16:03:16 INFO  ComparExcel:70 - 2 case
+  2021-06-02 16:03:18 INFO  ComparExcel:44 - second testcase started 
+  2021-06-02 16:03:18 INFO  ComparExcel:49 - third testcase started
+  2021-06-02 16:04:01 INFO  ComparExcel:68 - 3 case
+  2021-06-02 16:17:17 INFO  ComparExcel:35 - firstcase started
+  2021-06-02 16:17:36 INFO  ComparExcel:70 - 2 case
+  2021-06-02 16:17:37 INFO  ComparExcel:44 - second testcase started 
+  2021-06-02 16:17:37 INFO  ComparExcel:49 - third testcase started
+  2021-06-02 16:18:20 INFO  ComparExcel:68 - 3 case
+  2021-06-02 17:44:19 INFO  ComparExcel:35 - firstcase started
+  2021-06-02 17:44:46 INFO  ComparExcel:70 - 2 case
+  2021-06-02 17:44:48 INFO  ComparExcel:44 - second testcase started 
+  2021-06-02 17:44:48 INFO  ComparExcel:49 - third testcase started
+  2021-06-02 17:45:38 INFO  ComparExcel:68 - 3 case
+  
