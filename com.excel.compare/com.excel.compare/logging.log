@@ -44,4 +44,9 @@
   2021-06-02 17:44:48 INFO  ComparExcel:44 - second testcase started 
   2021-06-02 17:44:48 INFO  ComparExcel:49 - third testcase started
   2021-06-02 17:45:38 INFO  ComparExcel:68 - 3 case
+  2021-06-02 20:58:29 INFO  ComparExcel:35 - firstcase started
+  2021-06-02 20:59:01 INFO  ComparExcel:70 - 2 case
+  2021-06-02 20:59:03 INFO  ComparExcel:44 - second testcase started 
+  2021-06-02 20:59:03 INFO  ComparExcel:49 - third testcase started
+  2021-06-02 20:59:49 INFO  ComparExcel:68 - 3 case
   
